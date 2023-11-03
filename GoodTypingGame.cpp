@@ -118,11 +118,12 @@ int main() {
 	y += 3;
 	 
 	while(1) {
-		//巩力 积己 
+		//巩力 锅龋 
 		cc(14);
 		printf("%d\n", end);
 		y += 1;
 		
+		//巩力 积己 
 		cc(15);	
 		for(int j = 0; ; j++) {
 			fseek(fp,0,SEEK_CUR);
